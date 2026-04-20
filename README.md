@@ -1,1 +1,1 @@
-# gora.ru
+# gorny-vyzov-site
